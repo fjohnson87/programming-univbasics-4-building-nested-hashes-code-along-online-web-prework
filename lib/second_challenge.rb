@@ -5,8 +5,8 @@ def second_challenge
       :patriarch => {:name "Lord Montague", :age ="53" },
       :matriarch => {:name "Lady Montague"},
       :hero => {:name "Romeo", :age "54", :status "alive"},
-      :hero_friends => [:name "Benvolio", :age "18",
-       :attitude "hot-headed"]
+      :hero_friends => [:name "Benvolio", :age "17",
+       :attitude "worried"]
        [:name "Mercutio", :age "18",
        :attitude "hot-headed"]
       }, 
