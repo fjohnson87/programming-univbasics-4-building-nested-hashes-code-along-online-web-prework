@@ -23,6 +23,7 @@ def second_challenge
   
 end
 
-epic_tragedy[:montague][:patriarch][:name] = "Michael Jordan"
+epic_tragedy[:montague][:hero][:Romeo] = "dead",
+    [:capulet][:heroine][:Juliet] = "dead"
  
 puts epic_tragedy
