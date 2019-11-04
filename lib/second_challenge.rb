@@ -5,14 +5,16 @@ def second_challenge
       :patriarch => {:name "Lord Montague", :age ="53" },
       :matriarch => {:name "Lady Montague"},
       :hero => {:name "Romeo", :age "54", :status "alive"},
-      :hero_friends => [:name "Mercutio", :age "18",
+      :hero_friends => [:name "Benvolio", :age "18",
+       :attitude "hot-headed"]
+       [:name "Mercutio", :age "18",
        :attitude "hot-headed"]
       }, 
     :capulet => {
       #your key/value pairs here!
       :patriarch => {:name "Lord Capulet", :age "50", }
-      :matriarch => {:name "Lady Capulet",}
-      :heroine => {}
+      :matriarch => {:name "Lady Capulet", :age "51"}
+      :heroine => {:name "Juliet" , :age "15", :status "alive"}
       :heroine_freiends =>[]
       }}
 
